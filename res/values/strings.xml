@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UiDemoProject</string>
+    <string name="next_string">next</string>
+    <string name="prev_string">prev</string>
+    <string name="launch">Launch the Screen!</string>
+</resources>
