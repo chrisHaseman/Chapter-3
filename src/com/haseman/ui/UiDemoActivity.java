@@ -34,10 +34,9 @@ public class UiDemoActivity extends Activity implements OnClickListener {
 //    @Override
 //    public void onCreate(Bundle savedInstanceState) {
 //        super.onCreate(savedInstanceState);
-//        setContentView(R.layout.image_layout_absolute);
-//        
-//	    View v = findViewById(R.id.launch_button);
-//	    v.setOnClickListener(this);
+//        setContentView(R.layout.main);
+//        View v = findViewById(R.id.launch_button);
+//       v.setOnClickListener(this);
 //    }
     
     //Custom Text View code
