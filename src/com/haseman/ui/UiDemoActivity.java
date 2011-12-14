@@ -36,6 +36,8 @@ public class UiDemoActivity extends Activity implements OnClickListener {
 //        super.onCreate(savedInstanceState);
 //        setContentView(R.layout.image_layout_absolute);
 //        
+//	    View v = findViewById(R.id.launch_button);
+//	    v.setOnClickListener(this);
 //    }
     
     //Custom Text View code
@@ -47,8 +49,6 @@ public class UiDemoActivity extends Activity implements OnClickListener {
     	ctv.setText("Look at all my different colors!");
     	setContentView(ctv);
 
-    	View v = findViewById(R.id.launch_button);
-    	v.setOnClickListener(this);
     }
 	
 }
